@@ -1,5 +1,5 @@
 import streamlit as st
-from binarysearchtree import foodMenu
+from binarySearchTreeDemo import foodMenu
 import pandas as pd
 
 if 'hasFood' not in st.session_state:
